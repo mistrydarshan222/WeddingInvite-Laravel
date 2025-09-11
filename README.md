@@ -1,4 +1,4 @@
-# 💍 Wedding Website Generator
+# 💍 Wedding Invitation Generator
 
 A modern **Laravel-powered application** that allows couples to create their own personalized wedding website.  
 The platform provides event management, interactive features, and customizable themes, enabling couples to beautifully showcase their wedding details in a sleek, elegant format.  
